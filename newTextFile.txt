@@ -1,4 +1,4 @@
 Hi and goodbye
 commit this message
 
-I have a message from Yoon!
+I have a message from Someone!
