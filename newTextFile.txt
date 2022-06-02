@@ -1,2 +1,4 @@
 Hi and goodbye
 commit this message
+
+I have a message from Ian!
